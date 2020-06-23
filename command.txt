@@ -1,0 +1,5 @@
+
+
+to launch server: npm start
+
+tuto url: https://medium.com/@jinalshah999/reactjs-step-by-step-tutorial-series-part-2-reactjs-components-7b6a5078f824
